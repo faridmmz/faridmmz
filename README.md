@@ -1,22 +1,34 @@
 # 👋 Hey, I’m Farid Zandi
 
-🎮 Game Developer | 🧠 AI Engineer | ☁️ Cloud Enthusiast  
-I'm a passionate full-stack engineer who brings **games to life**, teaches machines to see, and scales apps in the cloud.  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎮 Game Developer | 🧠 AI Engineer | ☁️ Cloud Enthusiast</h3>
+
+I'm a passionate full-stack engineer who brings **games to life**, teaches machines to see, and schedules workflows in the cloud.  
 I build systems that are **interactive**, **intelligent**, and sometimes just... **chaotic fun**.
 
-<p align="right">
-  <img src="./farid-zandi-coding.gif" alt="Farid Coding" width="180" style="border-radius: 10px;" />
-</p>
+</td>
+<td width="50%" align="center">
+
+<img src="./farid-zandi-coding.gif" alt="Farid Coding" width="350" style="border-radius: 10px;" />
+
+</td>
+</tr>
+</table>
+
+
 
 
 ---
 
-## 🔧 What I Do (a.k.a. My Skill Tree)
+## 🔧 What I Do?
 
-- 🎮 **Game Dev**: Unity, Unreal Engine, Godot – gameplay, AI, level design, UI/UX, systems
-- 🧠 **AI/ML**: Deep Learning, Computer Vision, Transformers, RAG, CUDA, Research
+- 🧠 **AI/ML**: Deep Learning, Computer Vision, RL, Transformers, RAG, CUDA, Research
+- 🎮 **Game Dev**: Unity, Unreal Engine, Godot – gameplay, game AI, level design, UI/UX
 - 🌐 **Cloud & Web**: Full-stack (React + Node), Docker, Kubernetes, REST APIs
-- 📚 **Research**: Workflow Scheduling in Cloud, Neural Reconstruction, Multi-Modal Systems
+
 
 ---
 
@@ -26,9 +38,14 @@ I build systems that are **interactive**, **intelligent**, and sometimes just...
 |--------|------|-------------|
 | [`Stuff Happens`](https://github.com/faridmmz/stuff-happens-card-game) | React, Node | A memory card game with full-stack logic, user sessions, and game history. |
 | [`AI Abalone Game`](https://github.com/faridmmz/AI-Abalone-Game-Project) | Godot, GDScript | Classic board game AI with Minimax, alpha-beta pruning, and state caching. |
-| [`Deep Learning Seizure Detection`](https://github.com/faridmmz/Computational-Intelligence-Deep-Learning-Project) | Python, CNN | EEG-based classifier built from scratch with preprocessing and evaluation. |
-| [`Cloud REST API Infra`](https://github.com/faridmmz/Cloud-Computing-Project) | Go, Docker, K8s | Deployed scalable backend in cloud-native setup with MySQL. |
-| [`Image Search with CUDA`](https://github.com/faridmmz/Image-Search-CUDA) | CUDA, C++ | GPU-accelerated image similarity search using Hu Moments & Histograms. |
+| [`Deep Learning Seizure Detection`](https://github.com/faridmmz/Computational-Intelligence-Deep-Learning-Project) | Python, CNN | EEG-based seizure detection system with custom preprocessing and CNN. |
+| [`Cloud REST API Infra`](https://github.com/faridmmz/Cloud-Computing-Project) | Go, Docker, K8s | Auto-deployed Go backend with MySQL using Docker Compose & Kubernetes. |
+| [`Recommender & RAG System`](https://github.com/faridmmz/Recommender-System-and-RAG) | LLM, ElasticSearch | Hybrid recommendation + RAG pipeline using Amazon data and LLMs. |
+| [`Amazon Crawler`](https://github.com/mahya-ehs/Amazon-Crawler-and-Elastic-Search) | Python, ElasticSearch | Scraped Amazon, indexed with ElasticSearch, added query support. |
+| [`Data Mining Project`](https://github.com/faridmmz/Data-Mining-Project) | Python | Financial data cleaning, clustering, and trend prediction. |
+| [`Text Similarity (TF-IDF)`](https://github.com/faridmmz/Cosine-and-Jaccard-Similarity-using-TF-IDF) | Python | Computed cosine/Jaccard similarity on multilingual TF-IDF documents. |
+| [`Image Search with CUDA`](https://github.com/faridmmz/Image-Search-CUDA) | CUDA, C++ | GPU-accelerated image search using Hu Moments and histograms. |
+
 
 ---
 
@@ -54,5 +71,5 @@ Thesis: Multiple Workflow Scheduling in Cloud Computing
 
 ---
 
-> 🧪 Currently exploring: multi-modal behavior learning, procedural generation, and AI that can design games (or get addicted to them).
+> 🧪 Currently exploring: **Hard to explain, easier to show you.**
 
