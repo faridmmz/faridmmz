@@ -4,7 +4,10 @@
 I'm a passionate full-stack engineer who brings **games to life**, teaches machines to see, and scales apps in the cloud.  
 I build systems that are **interactive**, **intelligent**, and sometimes just... **chaotic fun**.
 
-![Farid Coding](./farid-zandi-coding.gif)
+<p align="right">
+  <img src="./farid-zandi-coding.gif" alt="Farid Coding" width="180" style="border-radius: 10px;" />
+</p>
+
 
 ---
 
