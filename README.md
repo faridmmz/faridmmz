@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <h3>🎮 Game Developer | 🧠 AI Engineer | ☁️ Cloud Enthusiast</h3>
 
@@ -10,9 +10,9 @@ I'm a passionate full-stack engineer who brings **games to life**, teaches machi
 I build systems that are **interactive**, **intelligent**, and sometimes just... **chaotic fun**.
 
 </td>
-<td width="50%" align="center">
+<td width="60%" align="center">
 
-<img src="./farid-zandi-coding.gif" alt="Farid Coding" width="350" style="border-radius: 10px;" />
+<img src="./farid-zandi-coding.gif" alt="Farid Coding" width="400" style="border-radius: 10px;" />
 
 </td>
 </tr>
