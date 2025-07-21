@@ -36,7 +36,7 @@ I build systems that are **interactive**, **intelligent**, and sometimes just...
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| [`Stuff Happens`](https://github.com/faridmmz/stuff-happens-card-game) | React, Node | A memory card game with full-stack logic, user sessions, and game history. |
+| [`Stuff Happens`](https://github.com/faridmmz/Stuff-Happens-Restaurant-Edition) | React, Node | A memory card game with full-stack logic, user sessions, and game history. |
 | [`AI Abalone Game`](https://github.com/faridmmz/AI-Abalone-Game-Project) | Godot, GDScript | Classic board game AI with Minimax, alpha-beta pruning, and state caching. |
 | [`Deep Learning Seizure Detection`](https://github.com/faridmmz/Computational-Intelligence-Deep-Learning-Project) | Python, CNN | EEG-based seizure detection system with custom preprocessing and CNN. |
 | [`Cloud REST API Infra`](https://github.com/faridmmz/Cloud-Computing-Project) | Go, Docker, K8s | Auto-deployed Go backend with MySQL using Docker Compose & Kubernetes. |
